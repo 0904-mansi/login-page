@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box ;
+}
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGbxBa9z00FoibU3NM3g_zM_NRJhD0EuYNw&usqp=CAU");
+  font-family: 'EB Garamond', serif;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
