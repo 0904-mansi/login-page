@@ -1,3 +1,13 @@
+Through this dummy react website I learned how to deploy react project through netlify and firebase.
+
+![Reference link for Deployment](https://www.pluralsight.com/guides/deploy-a-react-app-on-a-server)
+
+## Glimpse of My dummy website 
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/81081105/186673211-a9424d32-c85b-4489-afaa-05e9f2338095.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
